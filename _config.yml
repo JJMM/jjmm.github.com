@@ -4,10 +4,10 @@
 
 url: http://jjmm.github.io
 title: 宇哥说
-subtitle: zhangyu's blog.
+subtitle: 张宇的技术博客.
 author: 张宇
 simple_search: https://www.google.com/search
-description: 准备写博客了
+description: iOS,JAVA,设计等技术
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -95,3 +95,6 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+weibo_share: true
+
