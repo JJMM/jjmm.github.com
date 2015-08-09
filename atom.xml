@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[宇哥说]]></title>
+  <link href="http://jjmm.github.io/atom.xml" rel="self"/>
+  <link href="http://jjmm.github.io/"/>
+  <updated>2015-08-09T20:15:50+08:00</updated>
+  <id>http://jjmm.github.io/</id>
+  <author>
+    <name><![CDATA[张宇]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
